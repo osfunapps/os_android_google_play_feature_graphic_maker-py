@@ -20,8 +20,8 @@ Install via pip:
                                app_name_custom_font_path='/Users/home/Library/Fonts/Consolas.ttf')
     
 
-## output
-![Output](/images/feature_graphic.png)
+## Output
+![output](/images/feature_graphic.png)
 
 ## Function Signature
     def create_feature_graphic(logo_path,
