@@ -21,7 +21,7 @@ Install via pip:
     
 
 ## output
-![output](/images/feature_graphic.png)
+![Output](/images/feature_graphic.png)
 
 ## Function Signature
     def create_feature_graphic(logo_path,
